@@ -6,4 +6,4 @@
   This is a test message file
 </body>
 
-</html>                             asdfasdfasdfasdfasdfasf
+</html>                           
